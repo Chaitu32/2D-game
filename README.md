@@ -1,8 +1,13 @@
 # Assignment 1
- Just done world and character
+ 
+ A Randomly world and character
  
  For Movement :
- w:Up
- a:Left
- s:Down
- d:Right
+ 
+ > w:Up
+ 
+ > a:Left
+ 
+ > s:Down
+ 
+ >d:Right
