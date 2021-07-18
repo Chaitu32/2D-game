@@ -1,6 +1,6 @@
 # Assignment 1
  
- A Randomly world and character
+ A Random world and character
  
  For Movement :
  
