@@ -1,4 +1,4 @@
-# Assignment 1
+# 2D Open-Gl game
  
  A Random world and character
  
