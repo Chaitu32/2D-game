@@ -1,0 +1,9 @@
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/CMakeFiles/rebuild_cache.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/CMakeFiles/edit_cache.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/CMakeFiles/glad.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/CMakeFiles/Hello-World.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/chaitu/Documents/4th sem/Computer_Graphics/Assignment1/Hello-World/2019101072/bulid/libraries/glfw/src/CMakeFiles/glfw.dir
